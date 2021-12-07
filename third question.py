@@ -5,7 +5,7 @@
 """
 
 from utils import *
-from logic2 import *
+from logic import *
 
 
 """"
